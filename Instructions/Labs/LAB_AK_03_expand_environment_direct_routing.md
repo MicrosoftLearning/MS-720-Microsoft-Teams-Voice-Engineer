@@ -662,7 +662,7 @@ In the following task you will enable the end user for voice services through th
 2. Run the Set-CSUser command, the command modifies Microsoft Teams properties for an existing user account. Properties can be modified only for accounts that have been enabled for use with Microsoft Teams:
 
     ```powershell
-    Set-CsUser -Identity MeganB@Lab<customlabnumer>.O365ready.com -OnPremLineURI tel:+14255551234 -EnterpriseVoiceEnabled $true
+    Set-CsUser -Identity MeganB@Lab<customlabnumer>.O365ready.com -LineURI tel:+14255551234 -EnterpriseVoiceEnabled $true
     ```
 
 3. The cmdlet does not provide any output. When you are back on the command prompt, leave the window open for the next task.

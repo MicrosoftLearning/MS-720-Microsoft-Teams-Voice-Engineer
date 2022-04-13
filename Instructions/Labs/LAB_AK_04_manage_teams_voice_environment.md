@@ -83,7 +83,7 @@ In this task you will configure Alex Wilbur so that Katie Jordan is a delegate o
 
 2. Select **Users** and **Manage users**.
 
-3. Find **Alex Wilbur** and select the name to open the user’s properties.
+3. Find **Alex Wilber** and select the name to open the user’s properties.
 
 4. On the user’s properties page, select the **Voice** tab.
 

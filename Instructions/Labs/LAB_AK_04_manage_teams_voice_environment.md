@@ -483,7 +483,7 @@ Now we have broken our dial plan, we will sign into Teams again and prove it is 
 
 4. When prompted for sign in, enter Alex Wilbur’s username and select **Next**.
 
-5. When prompted enter Alex Wilbur’s password and select **Next**.
+5. When prompted enter Isaiah Langer’s password and select **Next**.
 
 6. You will be prompted with “Stay signed into all your apps” select **No, sign in to this app only**.
 

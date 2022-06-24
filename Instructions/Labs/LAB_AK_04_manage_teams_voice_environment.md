@@ -105,7 +105,7 @@ The changes are now active.
 
 ### Task 4 - Enable audio conferencing
 
-In this task you validate audio conferencing is enabled for Katie Jordan and change the default settings.
+In this task you validate audio conferencing is enabled for Isaiah Langer and change the default settings.
 
 1. You are still signed in to MS720-CLIENT01 as “Admin” and signed into the **Microsoft Teams admin center** as **Katie Jordan**.
 

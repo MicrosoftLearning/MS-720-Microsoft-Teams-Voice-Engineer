@@ -109,21 +109,31 @@ In this task you validate audio conferencing is enabled for Katie Jordan and cha
 
 1. You are still signed in to MS720-CLIENT01 as “Admin” and signed into the **Microsoft Teams admin center** as **Katie Jordan**.
 
-2. Select **Users** and **Manage users**.
+2. Select **Meetings** and **Audio Conferencing**.
 
-3. Find **Isaiah Langer** and select the name to open the user’s properties.
+3. Select **Add** from **Audio Conferencing policies**.
 
-4. On the user’s properties page, select the **Account** tab and under **Audio Conferencing** select **Edit**.
+4. Enter **No toll-free numbers** for **Name** and **No toll-free numbers in meetings** for **Description**
 
-5. Check if **Audio Conferencing** is switched to **On**.
+5. Turn off **Include toll-free numbers in meetings created by users of this policy** and **Save**.
 
-6. Set **Include toll-free numbers in meeting requests from user** to **Off**.
+6. Select the row with **No toll-free numbers** policy that was just created and select **Assign users**.
 
-7. Select the **Toll number** dropdown and change it to **+1 689 206 9333 Orlando, United States**. (**Note**: That particular number might not be available.  Choose another number as appropriate.)
+7. Search for **Isaiah** from **Manage users**, select **Isaiah Langer**, **Add** and **Apply**.
 
-8. Select **Apply**.
+8. Select **Users** and **Manage users**.
 
-9. Leave the browser window open.
+9. Find **Isaiah Langer** and select the name to open the user’s properties.
+
+10. On the user’s properties page, select the **Account** tab and under **Audio Conferencing** select **Edit**.
+
+11. Check if **Audio Conferencing** is switched to **On**.
+
+12. Select the **Toll number** dropdown and change it to **+1 689 206 9333 Orlando, United States**. (**Note**: That particular number might not be available.  Choose another number as appropriate.)
+
+13. Select **Apply**.
+
+14. Leave the browser window open.
 
 You have successfully modified the audio-conferencing settings for Isaiah Langer. 
 

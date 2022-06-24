@@ -964,7 +964,7 @@ Collaborative calling enables you to connect a call queue to a channel in Teams.
 
 3. Under **Call answering** select **Choose a team**, select **Add a channel**. 
 
-4. Type **Contoso**, select the channel and select **Add**, select **General**, select **Apply**.  
+4. Type **Contoso**, select the channel and select **Add**, select **General**, select **Apply** and select **Submit**.  
 
 5. Leave the Teams Admin Center open for the next task
 

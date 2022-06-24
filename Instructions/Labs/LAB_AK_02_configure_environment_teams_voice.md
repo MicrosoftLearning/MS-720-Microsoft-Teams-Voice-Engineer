@@ -936,7 +936,7 @@ Now we will create an auto attendant and direct one of the options to send calls
 
 7. Under **Call flow**, select **Add a greeting message** and enter, “Thank you for calling Contoso, your call is important to us, please be patient while we handle your call”.
 
-8. Under **Then route the call**, select **Redirect Call**, then select Redirect to **Voice App**, enter **Sales CQ**, then select **Next**
+8. Under **Call routing options**, select **Redirect Call**, then select Redirect to **Voice App**, enter **Sales CQ**, then select **Next**
 
 9. Under **Set business hours** leave the defaults and select **next**, 
 

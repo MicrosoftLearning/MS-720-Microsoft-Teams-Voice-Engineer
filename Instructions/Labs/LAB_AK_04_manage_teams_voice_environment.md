@@ -647,7 +647,7 @@ If we want to review the usage and performance of an individuals Teams calling, 
 
 4. Select the **Meetings &amp; calls** tab.
 
-5. You can now see all recent calls and meetings made by or involving Alex. Note, you may need to scroll down.
+5. You can now see all recent calls and meetings made by or involving Isaiah. Note, you may need to scroll down.
 
 6. Select one of the longer calls by duration.
 

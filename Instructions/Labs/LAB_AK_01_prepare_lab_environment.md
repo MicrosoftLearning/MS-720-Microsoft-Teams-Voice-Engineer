@@ -68,7 +68,7 @@ The lab number task, updates the o365ready.com DNS server with your lab's public
 
 1. Leave the browser window open and continue with the next task.
 
-    ![Screenshot of the o365ready.com website showing the lab number provisioning tool form.](.\Linked_Image_Files\M01_L01_E01_T02.png)
+    ![Screenshot of the o365ready.com website showing the lab number provisioning tool form.](./Linked_Image_Files/M01_L01_E01_T02.png)
 
 > [!NOTE]
 > If you have restarted this lab or if the lab timer has expired and the virtual machines were reset, you will likely have a new public IP address. Perform the following steps to update your lab domain delegation zone's public IP address.
@@ -109,13 +109,13 @@ In the following task you will execute a script to setup your lab environment.
 
     **Note**: If the reported public IP address is not the same as your lab's **&lt;public IP&gt;**, verify your public IP address is correct using the steps found earlier in this exercise. If the public IP addresses do not match, cancel and run the script again. If the public IP address you have identified and the public IP found by the script still do not match, contact a lab proctor.
 
-    ![Screenshot of the Lab Provisioning Tool](.\Linked_Image_Files\M01_L01_E01_T03.png)
+    ![Screenshot of the Lab Provisioning Tool](./Linked_Image_Files/M01_L01_E01_T03.png)
 
 1. If you see a **Ready to run script message**, select **Run Script** to prepare your lab tenant.
 
 1. When the script has completed and you can see a **Complete** message, select **Finish**.
 
-    ![Screenshot of the completed Lab Provisioning Tool](.\Linked_Image_Files\M01_L01_E01_T03-1.png)
+    ![Screenshot of the completed Lab Provisioning Tool](./Linked_Image_Files/M01_L01_E01_T03-1.png)
 
 As soon as the script finishes successfully, you have successfully configured your lab environment with the provided scripts.
 
@@ -129,7 +129,7 @@ In the following task you will request your public certificate for the SBC (Sess
 
 1. Select **CertReq-lab&lt;customlabnumber&gt;.o365ready.com.txt**. This certificate request was created by the configuration script.
 
-    ![Screenshot of the completed certificate request file in Windows Explorer](.\Linked_Image_Files\M01_L01_E01_T04.png)
+    ![Screenshot of the completed certificate request file in Windows Explorer](./Linked_Image_Files/M01_L01_E01_T04.png)
 
 1. In Notepad, select all the text in the file and then press Ctrl+C or right-click or tap and hold and select **Copy** to copy the contents to the clipboard.
 
@@ -147,7 +147,7 @@ In the following task you will request your public certificate for the SBC (Sess
 
 1. Select **Submit**.
 
-    ![Screenshot of the Microsoft Event CSR Submission form](.\Linked_Image_Files\M01_L01_E01_T04.png)
+    ![Screenshot of the Microsoft Event CSR Submission form](./Linked_Image_Files/M01_L01_E01_T04.png)
 
 1. Close File Explorer.
 
@@ -183,7 +183,7 @@ In this task you will verify your custom domain so you can work with it and assi
 
 1. Leave the browser window open.
 
-    ![Screenshot of the Microsoft 365 admin center Domains page, showing the custom lab domain as Default.](.\Linked_Image_Files\M01_L01_E02_T01.png)
+    ![Screenshot of the Microsoft 365 admin center Domains page, showing the custom lab domain as Default.](./Linked_Image_Files/M01_L01_E02_T01.png)
 
 You have successfully verified the custom domain created from the script is set as default domain to your tenant, which is important for later tasks.
 
@@ -207,7 +207,7 @@ In the following task you will use the global administrator account MOD Administ
 
 1. At the bottom of the card, select **Save changes**. Admin roles are updated.
 
-      ![Screenshot of the Microsoft 365 admin center user detail page for Katie Jordan.](.\Linked_Image_Files\M01_L01_E02_T02.png)
+      ![Screenshot of the Microsoft 365 admin center user detail page for Katie Jordan.](./Linked_Image_Files/M01_L01_E02_T02.png)
 
 1. Return to the **Katie Jordan** card by pressing the **left arrow**, and then select **Reset Password**.
 
@@ -239,7 +239,7 @@ In the following task you will add the custom domain to Megan Bowen.
 
 1. Select **Done**, then select **Save changes**.
 
-    ![Screenshot of the Microsoft 365 admin center user detail page for Megan Bowen.](.\Linked_Image_Files\M01_L01_E02_T03.png)
+    ![Screenshot of the Microsoft 365 admin center user detail page for Megan Bowen.](./Linked_Image_Files/M01_L01_E02_T03.png)
 
 1. Close the **Manage username and email** pane and then close the Megan Bowen user card.
 
@@ -367,7 +367,7 @@ In this task you will install the latest Teams PowerShell module on your lab cli
 
 1. You should see a version number of 2.5.1 or above and a multi value field with different cmdlets available.
 
-    ![Screenshot of the installing and importing the Microsoft Teams PowerShell module.](.\Linked_Image_Files\M01_L01_E04_T01.png)
+    ![Screenshot of the installing and importing the Microsoft Teams PowerShell module.](./Linked_Image_Files/M01_L01_E04_T01.png)
 
 1. Now login to Microsoft Teams via PowerShell to confirm you can connect. At the command prompt type the following cmdlet:
 
@@ -377,7 +377,7 @@ In this task you will install the latest Teams PowerShell module on your lab cli
 
 1. When the **Sign in to your account** window opens, enter the credentials of Katie Jordan (KatieJ@M365x&lt;tenantnumber&gt;.onmicrosoft.com) to sign in with your Teams Administrator user.
 
-    ![Screenshot of the connecting to the Microsoft Teams PowerShell module.](.\Linked_Image_Files\M01_L01_E04_T01-1.png)
+    ![Screenshot of the connecting to the Microsoft Teams PowerShell module.](./Linked_Image_Files/M01_L01_E04_T01-1.png)
 
 1. When you are successfully signed in you will be returned to the command prompt.
 
@@ -397,6 +397,6 @@ In this task you will install the latest Teams PowerShell module on your lab cli
 
 1. You can close the Windows PowerShell window by selecting the **X** in the top right.
 
-    ![Screenshot of the disconnecting to the Microsoft Teams PowerShell module.](.\Linked_Image_Files\M01_L01_E04_T01-2.png)
+    ![Screenshot of the disconnecting to the Microsoft Teams PowerShell module.](./Linked_Image_Files/M01_L01_E04_T01-2.png)
 
 You have successfully installed the Teams PowerShell Module, signed into Teams and tested a PowerShell command.

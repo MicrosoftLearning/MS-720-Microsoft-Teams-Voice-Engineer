@@ -389,7 +389,7 @@ You have successfully configured Coder Groups on the SBC.
 
 In the following task you will configure the IP Profiles for the SBC.
 
-1. To configure IP profiles, select **IP Profiles** and then select **New** and configure the following:
+1. To configure IP profiles under **Coders & Profiles**, select **IP Profiles** and then select **New** and configure the following:
 
 	- **Name:** Teams
 
@@ -453,7 +453,7 @@ You have successfully configured IP Groups on the SBC.
 
 In the following task you will configure the SBC to be ready for Teams.
 
-1. To configure SRTP go to **Media**, **Media security**, select **Media Security** and set it to **Enable**.
+1. To configure SRTP go to **Media**, then select **Media security**, select **Media Security** and set it to **Enable**.
 
 2. Select **Apply** and then **Save**.
 
